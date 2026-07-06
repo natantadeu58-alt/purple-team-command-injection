@@ -74,3 +74,8 @@ python ataque.py
 ### 📊 Resultado Esperado
 Como o servidor implementa a mitigação segura, você verá que o comando injetado `whoami` **falhará**. O comando `ping` retornará um erro informando que o host `"8.8.8.8 & whoami"` é desconhecido ou inválido, provando que a injeção foi totalmente neutralizada.
 
+Responsável:
+
+Natan
+
+Estudante de Engenharia de Software Futuro Especialista e Engenheiro de Segurança Cibernética.
